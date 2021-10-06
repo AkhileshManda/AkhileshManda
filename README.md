@@ -1,4 +1,4 @@
-![visitors](https://visitor-badge.glitch.me/badge?page_id=AkhileshManda.AkhileshManda)
+
 <h1 align="center">Hi 👋, I'm Akhilesh Manda</h1>
 <h3 align="center">I am Developer , Exploring new Things</h3>
 
