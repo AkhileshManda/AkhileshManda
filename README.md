@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Akhilesh Manda</h1>
-<h3 align="center">I am Developer , Exploring new Things</h3>
+<h3 align="center">I am a Developer , Exploring new Things</h3>
 
 <h2> About Me </h2>
 
