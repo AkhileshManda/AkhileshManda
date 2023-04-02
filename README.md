@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akhileshmanda&label=Profile%20views&color=0e75b6&style=flat" alt="akhileshmanda" /> </p>
 
-- 🌱 I’m currently learning **ML, React**
+- 🌱 I’m currently learning **Web3, React**
 
-- 👯 I’m looking to collaborate on **Flutter Projects**
+- 👯 I’m looking to collaborate on **Flutter and Web3 Projects**
 
-- 🤝 I’m looking for help with **Cloud**
+- 🤝 I’m looking for help with **Blockchain**
 
 - 💬 Ask me about **Flutter, Mobile App development, Basketball and Open Source**
 
